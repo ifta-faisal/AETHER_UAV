@@ -1,7 +1,7 @@
 # AETHER UAV
 
 **Advanced Electronic Tactical Hybrid Emergency Reconnaissance Unmanned Aerial Vehicle**
-![AETHER UAV](images/Drone.jpg)
+![AETHER UAV](Drone.jpg)
 
 ---
 
