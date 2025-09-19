@@ -131,6 +131,14 @@ To run or build the system, follow these steps:
 
 ---
 
+## System Circuit Diagram
+
+Below is the simplified wiring diagram of sensors, flight controller, and communication modules.
+
+![Circuit Diagram](Diagram.jpg)
+
+---
+
 ## Future Improvements
 
 - Payload delivery / drop mechanism (e.g., small packages, first-aid kits, beacons).  
