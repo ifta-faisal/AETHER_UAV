@@ -148,14 +148,3 @@ Below is the simplified wiring diagram of sensors, flight controller, and commun
 - More robust case / weather protection, waterproofing.  
 
 ---
-
-## License & Contributing
-
-- **License**: *(Add your license here, e.g. MIT, Apache-2.0, etc.)*  
-- **Contributing**: Contributions are welcome! If you wish to add features or fix issues:  
-  1. Fork the repo  
-  2. Create a branch for your feature/fix (`feature/…` or `bugfix/…`)  
-  3. Make commits with clear messages  
-  4. Submit a Pull Request with description of changes  
-
----
